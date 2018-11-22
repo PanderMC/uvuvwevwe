@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/PanderMC/uvuvwevwe/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<header>
+<style>
+body {
+	background: #4c0a13;
+	color: #c89132;
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+li {
+  color: #c89132; /* bullet color */
+}
 
-### Markdown
+h2 {
+	line-height: 1.5;
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	text-align: center;
+	text-color: white;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PanderMC/uvuvwevwe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#container {
+	/*stitching*/
+	outline: 1px dashed #FFffff;
+	outline-offset: -5px;
+	
+	background-color: #c89132;
+	height: 50px;
+	width: 100%;
+	
+	/*shadow*/
+	-webkit-box-shadow: 0px 2px 2px #000;
+	-moz-box-shadow: 0px 2px 2px #000;
+	box-shadow: 0px 2px 2px #000;
+}
+</style>
+<style type="text/css" scoped>
+.GeneratedMarquee {
+font-size:0.8em;
+font-family:'Comic Sans MS';
+font-weight: bold;
+margin-bottom: 1em;
+text-align:center;
+}
+</style>
+</header>
+<body>
+<font face="Comic Sans MS">
+    <div id="container">
+     <h2><font color="White" size="6">Annoucements</font></h2>
+    </div>
+<p>
+<div style="font-weight: bold; text-align: center; width: 100%;">
+.....................................................................
+<marquee class="GeneratedMarquee" direction="up" scrollamount="3" behavior="scroll">
+<li>4.2.6, 4.2.5, Beta Versions 4.2.4, 4.2.3, 4.2.2 Support is Added in from MMSuperPatcher v2.2</li>
+<div>14/11/2018</div>
+<li>MMSuperPatcher v2.2 Released, Go And Download Now ~> <a href="http://da2mm.wordpress.com/">http://da2mm.wordpress.com/</a></li>
+<div>19/03/2018</div>
+<li>Most Requested Reading Patch Feature is Added to 4.0.42 Version</li>
+<div>21/02/2018</div>
+<li>MultiVersion Enbled throught in MMSuperPatcher v2.1</li>
+<div>27/12/2017</div>
+<li>MMSuperPatcher v2.0 Released with Major Update, Go And Download Now.</li>
+<div>13/11/2017</div>
+<li>Nice To meet you all, I'm back and Sorry for late, MMSuperPatcher is Coming with so many exclusive mods and features :)</li>
+<div>13/11/2017</div>
+<li>MMSuperPatcher v1.7 Released with Exclusive mods, Go And Download Now ~> <a href="http://da2mm.wordpress.com/">http://da2mm.wordpress.com/</a></li>
+<div>04/08/2017</div>
+<li>MMSuperPatcher v1.6 Released and Surprises are there</li>
+<div>09/07/2017</div>
+<li>MMSuperPatcher can be Download from Our Official MMPatcher+, If anybody intrested to share their mods through our apk then Contact us :)</li>
+<div>09/07/2017</div>
+</marquee>
+.....................................................................
+ </div>
+</font>
+</body>
+</html>
